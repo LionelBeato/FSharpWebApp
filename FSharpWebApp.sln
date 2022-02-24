@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpWebApp", "FSharpWebApp\FSharpWebApp.fsproj", "{12857A01-69F5-4C74-974E-D26EB8683A13}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TestProject1", "TestProject1\TestProject1.fsproj", "{F36DA7EE-5B3E-428D-9D13-AD3E9A88BCCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12857A01-69F5-4C74-974E-D26EB8683A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12857A01-69F5-4C74-974E-D26EB8683A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12857A01-69F5-4C74-974E-D26EB8683A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12857A01-69F5-4C74-974E-D26EB8683A13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F36DA7EE-5B3E-428D-9D13-AD3E9A88BCCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36DA7EE-5B3E-428D-9D13-AD3E9A88BCCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36DA7EE-5B3E-428D-9D13-AD3E9A88BCCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36DA7EE-5B3E-428D-9D13-AD3E9A88BCCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
